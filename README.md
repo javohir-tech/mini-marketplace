@@ -74,14 +74,11 @@ button:hover {
 *Savat va umumiy summa*
 
 ### Mobile Ko'rinish
-![Mobile - Mahsulotlar](./src/assets/image%20copy.png)
+![Mobile - Mahsulotlar](./src/assets/image%20copy%202.png)
 *Mobilda 1 ustunda*
 
-![Mobile - Savat](./screenshots/mobile-cart.png)
-*Responsive savat*
-
-### Funksiyalar
-![Savatga qo'shish](./src/assets/image%20copy%202.png)
+### 
+![Savatga qo'shish](./src/assets/image%20copy.png)
 *Mahsulotni savatga qo'shish jarayoni*
 
 ##  Demo Havola
