@@ -67,10 +67,10 @@ button:hover {
 ## 📸 Interfeys Skrinshotlari
 
 ### Desktop Ko'rinish
-![Desktop - Mahsulotlar sahifasi](./src/assets/image.png)
+![Desktop - Mahsulotlar sahifasi](./src/assets/image2.png)
 *Mahsulotlar 2 ustunda ko'rsatiladi*
 
-![Desktop - Savat](./src/assets/image2.png)
+![Desktop - Savat](./src/assets/image.png)
 *Savat va umumiy summa*
 
 ### Mobile Ko'rinish
